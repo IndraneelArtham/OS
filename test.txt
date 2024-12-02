@@ -1,0 +1,1 @@
+Hello World, I am testing my new FAT12 file system for my OS.
